@@ -47,11 +47,9 @@ public class UserTest
   @Test
   public void testEquals()
   {
-    User alanas2 = new User ("alanas", 20, "jakonis",  "male"  , "gymFreak"); 
     User Kamil   = new User ("kamil", 18, "bigos", "betaMale", "polish"); 
 
     assertEquals(alanas, alanas);
-    assertEquals(alanas, alanas2);
     assertNotEquals(alanas, Kamil);
   } 
   
