@@ -1,0 +1,23 @@
+<object-stream>
+  <java.util.Stack serialization="custom">
+    <unserializable-parents/>
+    <vector>
+      <default>
+        <capacityIncrement>0</capacityIncrement>
+        <elementCount>3</elementCount>
+        <elementData>
+          <long>6</long>
+          <long>11</long>
+          <long>50</long>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+        </elementData>
+      </default>
+    </vector>
+  </java.util.Stack>
+</object-stream>
